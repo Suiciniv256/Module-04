@@ -1,0 +1,14 @@
+OID,Congressional District,Home Broadband Adoption (Percentage of  Households),Mobile Broadband Adoption (Percentage of Households),No Internet Access (Percentage of Households),No Home Broadband Adoption (Percentage of  Households),No Mobile Broadband Adoption (Percentage of Households),No Home Broadband Adoption by Quartile,No Mobile Broadband Adoption by Quartile,Commercial Fiber Max ISP Choice,Public Computer Center Count,Workstations in PCCs,Avg training hrs per week in PCCs,Public Wi-Fi Count,Poles Reserved by Mobile Telecom Franchisee,Pole with Equipment Installed by Mobile Telecom Franchise,Density of Poles Reserved and with Equipment Installed for Mobile Telecom Franchise
+0,3,0.79,0.71,0.14,0.21,0.29,High Connected,Medium High Connected,3,10,114,22.900000000000002,13,35,54,2.96
+1,5,0.68,0.73,0.18,0.32,0.27,Medium Low Connected,High Connected,3,42,900,209.89999999999995,144,166,140,28.71
+2,6,0.73,0.7,0.18,0.27,0.3,Medium High Connected,Medium Low Connected,5,38,759,155.79999999999993,135,164,303,46.42
+3,7,0.66,0.71,0.23,0.34,0.29,Low Connected,Medium High Connected,6,44,678,223.60000000000002,281,120,347,16.43
+4,8,0.67,0.7,0.22,0.33,0.3,Medium Low Connected,Medium Low Connected,5,52,835,247.2999999999999,255,128,231,34.85
+5,9,0.7,0.69,0.2,0.3,0.31,Medium Low Connected,Low Connected,4,39,931,252.1,146,109,194,7.05
+6,10,0.76,0.76,0.14,0.24,0.24,High Connected,High Connected,14,32,901,190.4999999999998,556,158,811,68.14
+7,11,0.74,0.69,0.17,0.26,0.31,Medium High Connected,Medium Low Connected,5,38,881,196.39999999999998,123,50,524,38.86
+8,12,0.8,0.8,0.11,0.2,0.2,High Connected,High Connected,0,47,1568,272.5999999999999,825,203,844,36.39
+9,13,0.64,0.69,0.23,0.36,0.31,Low Connected,Medium Low Connected,5,61,1586,324.79999999999995,467,171,416,40.21
+10,14,0.71,0.72,0.19,0.29,0.28,Medium High Connected,Medium High Connected,4,38,702,112.89999999999999,134,156,310,7.1
+11,15,0.59,0.68,0.28,0.41,0.32,Low Connected,Low Connected,5,51,1321,280.6999999999999,219,239,539,48.05
+12,16,0.68,0.69,0.2,0.32,0.31,Medium Low Connected,Low Connected,4,16,325,86.9999999999998,20,22,178,12.79
